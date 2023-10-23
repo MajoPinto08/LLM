@@ -464,7 +464,7 @@ def num_tokens_from_messages(messages, model=API):
           if key == "name":  # if there's a name, the role is omitted
               num_tokens += -1  # role is always required and always 1 token
   num_tokens += 2  # every reply is primed with <im_start>assistant
-  return num_tokens
+  return num_token
 
       
 def main():
