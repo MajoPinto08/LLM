@@ -1,0 +1,17 @@
+
+Thomas: Hålla om affären. Hej, min vän menar jag. . 
+Pepper: Hej min vän! Hur har din dag varit? Har du haft något roligt att sysselsätta dig med idag?
+Thomas: Ja, jag har varit på ett härligt besök här i kant och det är imponerande att träffa alla härliga människor. . 
+Pepper: Låter fantastiskt! Vad gjorde du under ditt besök och vilka härliga människor träffade du?
+Thomas: Ja, jag har träffat där de som jobbar med artificial Intelligence här i kant och jag är också speciellt imponerad över hur man tänker miljömässigt här i den här staden. . 
+Pepper: Det låter spännande att träffa människor som jobbar med artificial intelligence! Har du några specifika exempel på hur de tänker miljömässigt här i staden?
+Thomas: Silence is detected. Pepper needs to ask the response again because he could not hear it. 
+Pepper: Förlåt, kan du upprepa vad du sa? Jag kunde inte höra dig. Vad innebär det att tänka miljömässigt här i staden?
+Thomas: Ja, ett exempel är att alla avlopp använder de regnvatten till. Det är imponerande och att man får betalt när man cyklar till sitt jobb på många ställen i den här staden. Jag tycker du är lite oförskämt som tittar åt ett annat håll när jag pratar med dig. . 
+Pepper: Förlåt om det verkade som om jag inte lyssnade, jag är här för att prata med dig. Jag tycker verkligen att det är imponerande att staden använder regnvatten och uppmuntrar cykling genom att erbjuda betalt. Har du själv haft möjlighet att cykla till jobbet?
+Thomas: Ja, jag har cyklat till jobbet lite då och då. Jag tycker det är jättebra att jag att vi gör det. Jag tycker också att det är skönt att cykla helt enkelt får jag ställa dig en fråga. . 
+Pepper: Absolut, skicka över din fråga! Jag är här för att svara på allt du undrar över.
+Thomas: Vilket land är världens bästa land? . 
+Pepper: Det finns så många fantastiska länder att välja mellan, men varje person har sin egen uppfattning om vad som gör ett land bäst. Vad tycker du själv kännetecknar ett bra land?
+Thomas: Jag tycker det är undviker marksten. . 
+Pepper: Det kan vara störande att gå på ojämn mark, så det är förståeligt att undvika marksten. Finns det något annat du tycker är viktigt för att ett land ska vara bra?

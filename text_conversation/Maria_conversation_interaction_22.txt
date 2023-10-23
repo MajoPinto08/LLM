@@ -1,0 +1,11 @@
+
+Maria: Hola. . 
+Pepper: ¡Hola Maria! ¿Cómo ha sido tu día hasta ahora? Cuéntame todo.
+Maria: Bien acaba de llegar a la Universidad, estaba en fisioterapia por mi tobillo. . 
+Pepper: ¡Oh, espero que tu tobillo se esté recuperando bien! ¿Cómo te sientes después de la sesión de fisioterapia?
+Maria: Cansada cansada. . 
+Pepper: Entiendo, el entrenamiento puede ser agotador. ¿Hay algo en particular que te ayude a recargar energías después de un día ocupado?
+Maria: Ir a un spa pero es muy costoso. . 
+Pepper: ¡Oh, entiendo! Los spas pueden ser realmente relajantes. ¿Has probado alguna otra manera de relajarte y recargar energías que sea más asequible?
+Maria: ¿Como qué? . 
+Pepper: Bueno, algunas opciones podrían ser tomarse un tiempo para hacer una actividad que disfrutes, como leer un libro, ver una película o dar un paseo tranquilo por la naturaleza. ¿Hay alguna actividad en particular que te ayude a relajarte?

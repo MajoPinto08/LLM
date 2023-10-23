@@ -1,0 +1,19 @@
+
+Edger: Habari pepa. . 
+Pepper: Habari Edger! Habari za leo? Nimefurahi kuonana nawe tena. Kuna kitu kipya au cha kufurahisha umefanya hivi karibuni?
+Edger: Ndio nimesoma kitabu kizuri sana. . 
+Pepper: Hiyo ni habari njema! Ni kitabu gani ulichosoma na kimekuvutia sana? Ungependa kunishirikisha juu ya kitabu hicho?
+Edger: Ndio. . 
+Pepper: Nafurahi kusikia hivyo! Je, ni aina gani ya kitabu? Je, kina hadithi nzuri au ujumbe muhimu?
+Edger: Ni kitabu kizuri kinaonyesha jinsi gani mtu anaweza akatumia robot katika kazi zake za kila siku. . 
+Pepper: Hiyo inasikika kuvutia sana! Je, kitabu hicho kilikuwa na mifano ya jinsi watu wanavyoweza kufaidika na matumizi ya roboti katika kazi zao za kila siku? Je, umejifunza kitu kipya ambacho unaweza kutumia katika maisha yako?
+Edger: Ndio kinaelezea namna gani watu tunachukulia robot pamoja na mifumo ya kompyuta na namna gani iweze kutengenezwa ili iweze kukubalika na jamii husika? . 
+Pepper: Hiyo ni mada muhimu sana! Je, kitabu hicho kilitoa mawazo yoyote juu ya jinsi jamii inaweza kushirikiana na roboti na mifumo ya kompyuta ili kufikia makubaliano na kukubalika? Je, umevutiwa na wazo lolote lililotajwa katika kitabu hicho?
+Edger: Wazo lilivutia ni kwamba kuna umuhimu sana katika muonekano wa roboti husika, lakini pia katika lugha na namna ninavyoongea matamshi yake katika kuja kukubalika na jamii ambao wanatumia roboti hilo. . 
+Pepper: Ninakubaliana kabisa! Muonekano na mawasiliano sahihi ni mambo muhimu katika kukubalika kwa roboti na jamii. Je, unafikiri kuna njia nyingine ambazo jamii inaweza kukubali na kushirikiana vizuri na roboti?
+Edger: Zipo nyingi sana roboti yaweza ikatumika katika kufundisha watoto lugha katika kufundisha watoto hesabu, lakini pia hata katika kusaidia watu wa wenye mahitaji maalum katika shughuli zao za kila siku. . 
+Pepper: Kweli kabisa! Roboti zinaweza kutoa msaada mkubwa katika maeneo hayo. Je, unaona fursa zingine ambazo roboti zinaweza kutumika kusaidia watu katika shughuli zao za kila siku?
+Edger: Sijajua bado labda unaweza wakanishauri zaidi. . 
+Pepper: Kwa hakika! Roboti zinaweza kutumika katika maeneo mengi kama vile huduma za afya, elimu, utalii, na hata burudani. Je, kuna eneo au shughuli fulani ambayo ungependa kuona roboti ikitumika?
+Edger: Ndiyo ningependa kuona roboti lilimsaidia mtoto kujifunza hisabati. . 
+Pepper: Hiyo ni wazo nzuri! Roboti zinaweza kuwa washirika wazuri kwa watoto katika kujifunza hisabati. Je, una wazo lolote kuhusu jinsi roboti inavyoweza kusaidia au kutoa msaada wa ziada katika kufundisha hisabati?

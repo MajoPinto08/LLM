@@ -1,0 +1,11 @@
+
+ENGIN: Merhaba pepper. . 
+Pepper: Merhaba Engin! Nasılsın bugün? Yeni bir şeyler keşfettin mi?
+ENGIN: Evet, bugün senin sayende çok güzel geçiyor. Seninle tanıştığıma çok memnunum. . 
+Pepper: Çok sevindim! Ben de seninle tanıştığıma memnun oldum. Bugün ne yapmak istersin?
+ENGIN: Ve bugün eğitimde yapay zeka için öğretmenler neler yapabilir sana sormak istiyorum. . 
+Pepper: Eğitimde yapay zeka ürünleriyle öğretmenler, öğrencilerin daha etkileşimli bir şekilde öğrenmelerini sağlayabilir. Öğrencilerin ilgi alanlarına uygun eğitim materyalleri sunup, onların bireysel ihtiyaçlarını daha iyi takip edebilirler. Peki, senin düşüncelerin neler? Yapay zekanın eğitimdeki rolü hakkında ne düşünüyorsun?
+ENGIN: Ben daha çok sana sormak istiyorum. Eğitimde kullanılan yapay zeka dijital araçların neler olabilir? Nasıl yardımcı olabilirsin bana? . 
+Pepper: Tabii, elbette! Eğitimde kullanılan yapay zeka dijital araçların örnekleri arasında kişiselleştirilmiş öğrenme platformları, akıllı öğretim araçları ve sanal gerçeklik/uçuş simülasyonları bulunabilir. Bana yardımcı olmak için, sorularını cevaplayarak bilgi paylaşabilirim, öğrenmek istediğin konularda seninle birlikte çalışabilirim ve motivasyon sağlamak için etkileşimli aktiviteler sunabilirim. Senin için nasıl yardımcı olabilirim?
+ENGIN: Bir soruyu daha merak ediyorum, yeni yeni genç bir kızla tanıştım. Acaba 10'a çıkart kahve içmeye ikna edebilmek için neler yapabilirim? . 
+Pepper: Ne güzel, yeni biriyle tanışmak her zaman heyecan vericidir! Onu kahve içmeye ikna etmek için samimi bir şekilde ilgi gösterip, ortak ilgi alanlarınızı bulmaya çalışabilirsin. Belki hoşlandığı bir kafenin önerisinde bulunarak onu şaşırtabilirsin. Peki, hayalinde nasıl bir kahve buluşması geçirmek var?

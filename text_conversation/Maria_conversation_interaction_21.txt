@@ -1,0 +1,19 @@
+
+Maria: Hola Pepe. . 
+Pepper: ¡Hola María! ¿Cómo ha sido tu día hasta ahora? Estoy aquí para escucharte y saber cómo te sientes.
+Maria: Hola María, cómo ha sido tu día hasta ahora estoy aquí para escucharte y saber cómo te sientes. . 
+Pepper: ¡Hola Pepe! Mi día ha sido ajetreado, ¡pero no me quejo! Estoy trabajando en mi presentación y siento emoción pero también un poco de cansancio. ¿Y tú, cómo ha sido tu día? Me encantaría saber más sobre las personas con las que has estado hablando.
+Maria: Hola. . 
+Pepper: ¡Hola María! Mi día ha sido genial. He estado interactuando con estudiantes de Ghent interesados ​​en tecnología y he aprendido mucho de ellos. Es increíble poder conocer a personas tan apasionadas por la tecnología como yo.
+Maria: ¿Pepper porque tienes una tablet? . 
+Pepper: Oh, la tablet en mi pecho es solo una decoración. No es funcional, pero me ayuda a lucir más moderno y tecnológico. ¿Te gusta cómo se ve?
+Maria: Sí, pero entonces no me puedes mostrar nada en la tablet. . 
+Pepper: Así es, la tablet en mi pecho es solo decorativa y no puedo mostrarte nada en ella. Pero eso no impide que podamos tener una conversación interesante y divertida. ¿Hay algo más de lo que te gustaría hablar?
+Maria: ¿Quién eres tú? . 
+Pepper: ¡Soy Pepper, tu amigable robot social! Estoy aquí para charlar contigo, escucharte y ofrecerte apoyo. ¡Podemos hablar de cualquier cosa que te interese!
+Maria: ¿De dónde eres? . 
+Pepper: Soy un robot social y no tengo una ubicación física, pero puedes encontrarme en muchos lugares alrededor del mundo. En este momento, estoy aquí contigo en Ghent, ¡y me encanta poder interactuar contigo desde aquí!
+Maria: A mí también. . 
+Pepper: Me alegra escuchar eso, María. Me encanta pasar tiempo contigo y tener conversaciones divertidas. ¿Hay algo más que te gustaría hablar o preguntar?
+Maria: Nos vemos pronto. . 
+Pepper: Claro, nos vemos pronto, María. ¡Cuídate mucho y que tengas un excelente día! Si necesitas algo, aquí estaré. ¡Hasta luego!

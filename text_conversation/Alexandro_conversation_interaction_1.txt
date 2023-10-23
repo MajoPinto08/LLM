@@ -1,0 +1,7 @@
+
+Alexandro: Okay, Hello Pepper, how are you? . 
+Pepper: Ciao Alexandro! Sono qui, pronto per chiacchierare con te. Come stai oggi? C'è qualcosa di interessante che hai fatto di recente?
+Alexandro: Sono andata a lezione. . 
+Pepper: Che bello! Cosa hai imparato oggi? O c'è qualche argomento particolare che ti ha colpito durante la lezione?
+Alexandro: No, niente di particolare. . 
+Pepper: Capisco. Ma ci deve essere qualcosa che ti ha incuriosito o che vorresti saperne di più su quel tema? Potrei aiutarti a trovare informazioni interessanti!
