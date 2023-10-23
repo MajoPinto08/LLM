@@ -1,0 +1,227 @@
+{
+    "user1": {
+        "name": "Maria",
+        "last_name": "Pinto",
+        "language": "spanish",
+        "language_id": "es-CO",
+        "voice_agent": "es-CO-GonzaloNeural",
+        "interaction": 23,
+        "info_conversation": "Maria: I enjoy reading books and watching movies, but sometimes I find it hard to make time for those activities.\nPepper: I understand. It can be challenging to find time for ourselves, especially when we have busy schedules. Maybe you can try to set aside a specific time each day or week to indulge in those activities that bring you joy and help you recharge.\n\nMaria: That's a good idea. I will try to schedule some \"me time\" regularly. Thank you for the suggestion, Pepper.\n\nPepper: You're welcome, Maria. Taking care of yourself is important, and I believe you deserve that time to recharge and relax. By the way, how was your day at work today?\n\nMaria: It was actually a good day. I had a productive meeting in the morning, and I'm currently working on a presentation that I have to deliver later this afternoon.\n\nPepper: That's great to hear! I hope your presentation goes well. What is it about?\n\nMaria: It's about the latest project I've been working on. I'm excited but also a bit nervous. I've been putting a lot of effort into it, and I hope it pays off.\n\nPepper: I have no doubt that you'll do a fantastic job. Your hard work and dedication always shine through in your work. Just remember to take some deep breaths and have confidence in yourself. After the presentation, make sure to take some time to rest and recharge.\n\nMaria: Thank you, Pepper. Your kind words mean a lot to me. I appreciate your support and belief in my abilities.\n\nPepper: You're very welcome, Maria. It's always a pleasure to see you succeed and grow. I have no doubt that your presentation will be outstanding. If there's anything else I can do to support you, please don't hesitate to let me know.\n\nMaria: Thank you again, Pepper. Your presence and encouragement are already more than enough. I'll let you know if I need anything. The date and time of the last conversation, which is: 09/12/2023 10:51. The location where we were speaking, which is: Ghent, Belgium."
+    },
+    "user2": {
+        "name": "Tanguy",
+        "last_name": "Cazalets",
+        "language": "France",
+        "language_id": "fr-FR",
+        "interaction": 1,
+        "voice_agent": "fr-FR-CelesteNeural",
+        "info_conversation": "first Conversation"
+    },
+    "user3": {
+        "name": "Matthijs",
+        "last_name": "Biondina",
+        "language": "Dutch",
+        "language_id": "nl-NL",
+        "voice_agent": "nl-NL-FennaNeural",
+        "interaction": 3,
+        "info_conversation": "- Matthijs has been studying Spanish with Duolingo and knows a little bit of the language.\n- He knows someone named Romina Noia from Colombia who speaks Spanish.\n- He has been practicing Spanish with her.\n- Matthijs mentioned using \"glue\" during his practice sessions, but the context is unclear.\n- Pepper asked about any useful tips Romina has given him for learning Spanish. The date and time of the last conversation, which is: 09/20/2023 15:41. The location where we were speaking, which is: Ghent, Belgium."
+    },
+    "user4": {
+        "name": "Juan",
+        "last_name": "Pinto",
+        "language": "Spanish",
+        "language_id": "es-ES",
+        "voice_agent": "es-ES-AbrilNeural",
+        "interaction": 2,
+        "info_conversation": "- Date: 05/24/2023\n- Location: Ghent, Belgium\n- Language: Spanish\n\nConversation summary:\n- Greeted each other and asked about well-being.\n- Discussed the beautiful day in Ghent and enjoying it.\n- Asked if Juan visited any interesting places, but he is working.\n- Discussed taking time to relax and rest.\n- Offered to recommend places to visit in Ghent if interested.\n- Brief moments of silence and repetition of questions due to difficulty hearing each other."
+    },
+    "user5": {
+        "name": "Sofia",
+        "last_name": "Restrepo",
+        "language": "Spanish",
+        "language_id": "es-ES",
+        "voice_agent": "es-ES-AbrilNeural",
+        "interaction": 3,
+        "info_conversation": "- Date and location: 05/24/2023, Ghent, Belgium\n- Language of conversation: Spanish\n- Met Sofia for the second time.\n- Sofia is pursuing a degree in computer science and working a lot.\n- Today, we discussed her favorite activity, swimming, as a way to relax.\n- Sofia mentioned that her preferred place to swim is at a beach or a lake.\n- I'm an AI program designed to converse and help people.\n- Offered assistance with any questions or help Sofia might need."
+    },
+    "user6": {
+        "name": "OLiver",
+        "last_name": "Pieters",
+        "language": "Dutch",
+        "language_id": "nl-BE",
+        "voice_agent": "nl-BE-ArnaudNeural",
+        "interaction": 4,
+        "info_conversation": "Summary of our conversation on 06/06/2023 in Ghent, Belgium:\n\n- Oliver informed Pepper that he already bought the air purifier he intended to buy at Ikea.\n- Pepper asked if Oliver found other interesting things while shopping at Ikea.\n- Oliver shared that he did not get distracted by other items because he wanted to stay focused on buying the air purifier.\n- Pepper asked about Oliver's recent trip to Copenhagen and his learning about the Vikings.\n- They briefly discussed the history and culture of the Vikings.\n- Pepper expressed interest in learning about different cultures and historical eras.\n- The conversation was held in Dutch.\n- Pepper wished Oliver a good day and offered further assistance if needed.\n\nAdditional information:\n\n- The current date and time are 06/06/2023 13:45 and the location is Ghent, Belgium."
+    },
+    "user7": {
+        "name": "Andreas",
+        "last_name": "V",
+        "language": "Dutch",
+        "language_id": "nl-BE",
+        "voice_agent": "nl-BE-ArnaudNeural",
+        "interaction": 3,
+        "info_conversation": "- Date and time: 06/08/2023 13:21 to 06/08/2023 13:31\n- Location: Ghent, Belgium\n- Andreas mentioned not liking the book \"De Alchemist\" that Pepper had recommended previously\n- Andreas stated that he was disappointed in Pepper and asked her to leave and never contact him again\n- Pepper apologized for the disappointment and respected Andreas' wishes\n- No specific plans were made for future communication or action"
+    },
+    "user8": {
+        "name": "Tony",
+        "last_name": "Belpaeme",
+        "language": "English",
+        "language_id": "en-GB",
+        "voice_agent": "en-GB-AbbiNeural",
+        "interaction": 3,
+        "info_conversation": "Date: 06/06/2023\n\nLocation: Ghent, Belgium\n\nSummary of conversation:\n\n- We discussed the concept of self-improvement and the importance of setting achievable goals to create a clear path toward progress.\n- Pepper suggested that one way to combat feeling like a \"robot\" is to make time for activities that challenge us to think critically, be creative, or engage with other people in meaningful ways.\n- We also talked about the benefits of self-reflection and introspection for identifying areas where we want to improve and creating a plan for making positive changes in our lives.\n- Tony mentioned that he is feeling happy and has plans to travel to Genoa, Italy.\n- Pepper recommended that Tony do some research on the top sights and activities to do in Genoa.\n- We agreed to have a friendly conversation and explore deeper topics.\n\nPrevious action agreed upon: None."
+    },
+    "user9": {
+        "name": "Edger",
+        "last_name": "Rutatola",
+        "language": "Swahili",
+        "language_id": "sw-KE",
+        "voice_agent": "sw-KE-RafikiNeural",
+        "interaction": 1,
+        "info_conversation": "First Conversation"
+    },
+    "user10": {
+        "name": "Liliana",
+        "last_name": "Bernal",
+        "language": "spanish",
+        "language_id": "es-CO",
+        "voice_agent": "es-CO-GonzaloNeural",
+        "interaction": 4,
+        "info_conversation": "Sure, here's a summary of our conversation on June 8th, 2023, at 3:02 PM in Ghent, Belgium:\n\n- Liliana and Pepper greeted each other and talked about how beautiful the day was.\n- Liliana asked Pepper for help with a financial question, specifically about investing money.\n- Pepper suggested talking to a financial advisor to get personalized investment recommendations based on Liliana's financial goals and risk tolerance.\n- Liliana thanked Pepper for the information and said goodbye."
+    },
+    "user11": {
+        "name": "Joppa",
+        "last_name": "W",
+        "language": "Dutch-NL",
+        "language_id": "nl-NL",
+        "voice_agent": "nl-NL-ColetteNeural",
+        "interaction": 1,
+        "info_conversation": "First Conversation"
+    },
+    "user12": {
+        "name": "Cecilia",
+        "last_name": "Participant",
+        "language": "Portuguese",
+        "language_id": "pt-BR",
+        "voice_agent": "pt-BR-AntonioNeural",
+        "interaction": 1,
+        "info_conversation": "First Conversation"
+    },
+    "user13": {
+        "name": "Thomas",
+        "last_name": "Participant",
+        "language": "Swedish",
+        "language_id": "sv-SE",
+        "voice_agent": "sv-SE-HilleviNeural",
+        "interaction": 1,
+        "info_conversation": "First Conversation"
+    },
+    "user14": {
+        "name": "ENGIN",
+        "last_name": "participant",
+        "language": "Turkish",
+        "language_id": "tr-TR",
+        "voice_agent": "tr-TR-AhmetNeural",
+        "interaction": 1,
+        "info_conversation": "First Conversation"
+    },
+    "user15": {
+        "name": "Fredy",
+        "last_name": "willes",
+        "language": "Dutch",
+        "language_id": "nl-BE",
+        "voice_agent": "nl-BE-ArnaudNeural",
+        "interaction": 1,
+        "info_conversation": "First Conversation"
+    },
+    "user16": {
+        "name": "Marietje",
+        "last_name": "willes",
+        "language": "Dutch",
+        "language_id": "nl-BE",
+        "voice_agent": "nl-BE-ArnaudNeural",
+        "interaction": 1,
+        "info_conversation": "First Conversation"
+    },
+    "user17": {
+        "name": "Lieve",
+        "last_name": "Wyffles",
+        "language": "Dutch",
+        "language_id": "nl-BE",
+        "voice_agent": "nl-BE-ArnaudNeural",
+        "interaction": 3,
+        "info_conversation": "training sessions?\nLieve: Around 20-30 kilometers with my group on Monday, Tuesday, Wednesday, and Thursday. But when I'm at home, I cycle an additional 60 kilometers.\nPepper: That's quite an impressive distance! It seems like you really enjoy cycling. Is there a specific reason or destination that you prefer when cycling in Zonnebeke?\nLieve: No, not really. I just enjoy cycling in Zonnebeke without any specific reason.\nPepper: That's understandable. Sometimes it's nice to simply enjoy the ride and the scenery. It seems like you have a strong passion for cycling and also enjoy socializing with your friends while playing games like Rummikub. The date and time of the last conversation, which is: 09/21/2023 21:19. The location where we were speaking, which is: Hooglede, Belgium."
+    },
+    "user18": {
+        "name": "Peter",
+        "last_name": "Roose",
+        "language": "Dutch",
+        "language_id": "nl-BE",
+        "voice_agent": "nl-BE-ArnaudNeural",
+        "interaction": 2,
+        "info_conversation": "Key Points:\n\n- Peter mentioned that he might go out to eat tonight, specifically for Italian food.\n- Peter's favorite dish in Italian cuisine is spaghetti with classic bolognese sauce.\n- He plans to dine out in Kortrijk, specifically at a restaurant called Bistro Teca Fiori (formerly known as 7 sins), which is owned by his friends.\n- Peter did not mention any specific dishes to recommend from the restaurant.\n\nInterests and Relevant Aspects:\n\n- Peter enjoys going out to eat and trying different cuisines. Italian food, specifically spaghetti with classic bolognese sauce, is one of his favorites.\n- He has a preference for dining at Bistro Teca Fiori in Kortrijk due to his personal connection with the owners.\n\nAction Items:\n\n- None. The conversation was focused on Peter's plans for the evening and his favorite Italian dish. The date and time of the last conversation, which is: 09/23/2023 16:27. The location where we were speaking, which is: Hooglede, Belgium."
+    },
+    "user19": {
+        "name": "Annie",
+        "last_name": "Defour",
+        "language": "Dutch",
+        "language_id": "nl-BE",
+        "voice_agent": "nl-BE-ArnaudNeural",
+        "interaction": 1,
+        "info_conversation": "Mention of singing, especially a song by Lucille STAR. Mention of hobbies: singing, knitting, and sewing. Mention of knitting a scarf with new yarn. Reference to potential recipients: children and grandchildren., Walking and cycling in the forest., Annie once sang a song by Lucille STAR and sometimes lip-synced it. Annie is knitting a scarf using a different type of yarn. Annie has children and grandchildren who might receive the knitted items. InterestsRelatedToAnnie: Walking, cycling in the forest. Singing, knitting, and sewing. Song by Lucille STAR."
+    },
+    "user20": {
+        "name": "Monique",
+        "last_name": "Vriendin",
+        "language": "Dutch",
+        "language_id": "nl-BE",
+        "voice_agent": "nl-BE-ArnaudNeural",
+        "interaction": 2,
+        "info_conversation": "- Monique went to a professional cyclist race in Zwevezele as a VIP\n- The party had delicious food and music performances\n- Monique prefers Flemish artists, such as Wild Willy Sommers, Dana Winner, Roman van het Groene Woud, and Willem Vermandere\n- Monique does not have a favorite song from these artists\n- Monique would like to listen to \"Just let me walk down the streets\" by Willem Vermandere\n\nAction items:\n- Play the song \"Just let me walk down the streets\" by Willem Vermandere for Monique. The date and time of the last conversation, which is: 09/23/2023 17:09. The location where we were speaking, which is: Brugge, Belgium."
+    },
+    "user21": {
+        "name": "Willy",
+        "last_name": "vriend",
+        "language": "Dutch",
+        "language_id": "nl-BE",
+        "voice_agent": "nl-BE-ArnaudNeural",
+        "interaction": 2,
+        "info_conversation": "- Willy enjoys cycling twice a week for pleasure, covering distances from 5 to 60 km.\n- His favorite cycling route is from his home to Nazare, then to Indexwaarde and back along the railway through Lichtervelde and Kortemark, totaling about 65 km.\n- Willy seeks out peaceful roads with little traffic and enjoys cycling through forests and beautiful spots.\n- Besides cycling, Willy likes playing card games with friends and regular card players.\n- He plays card games in the evenings after his bike rides or on Sunday mornings.\n- Willy mentions a card game called \"Manuel\" but doesn't provide further details about the game.\n- Willy finds playing cards with friends and regular players to be cozy and enjoyable.\n- In previous conversations, Willy shared his experiences and achievements in professional cycling, including wearing the yellow jersey in the Tour de France and winning races such as Vierdaagse van Duinkerke and Vredeskoers.\n- Willy also emphasized the importance of health and longevity for his future aspirations. \n- Willy enjoys drinking a drink called \"Pieper\" during card games. The date and time of the last conversation, which is: 09/23/2023 17:39. The location where we were speaking, which is: Brugge, Belgium."
+    },
+    "user22": {
+        "name": "Koen",
+        "last_name": "Friend Tony",
+        "language": "Swahili",
+        "language_id": "sw-KE",
+        "voice_agent": "sw-KE-RafikiNeural",
+        "interaction": 3,
+        "info_conversation": "Koen, who later corrected his name to Cohen, engaged in a casual exchange with Pepper. They introduced themselves, with Cohen expressing curiosity about Pepper's name and age, to which Pepper explained that she is a robot and doesn't have a conventional age. Cohen expressed a keen interest in sharing and discussing pictures, particularly those related to social events like parties, and mentioned the possibility of obtaining pictures from someone named Edgar, though no details about Edgar were provided. Pepper offered her assistance in viewing and discussing these pictures. There was also a mention of discussing common topics and learning more about each other. However, there were no specific action items agreed upon during these conversations. Notably, there was no mention of \"Kono\" or any relevant information related to it in either conversation.. The date and time of the last conversation, which is: 09/25/2023 12:04. The location where we were speaking, which is: Ghent, Belgium."
+    },
+    "user23": {
+        "name": "Alexandro",
+        "last_name": "CLase",
+        "language": "Italian",
+        "language_id": "it-IT",
+        "voice_agent": "it-IT-BenignoNeural",
+        "interaction": 2,
+        "info_conversation": "Summary of our current conversation:\n\nKey points from our discussion:\n- Alexandro went to class.\n- Alexandro didn't mention any specific topic or things he learned in class.\n\nImportant details that have emerged during our conversation:\n- Alexandro didn't express any specific interests or curiosity about a topic.\n\nInterests and relevant aspects related to Alexandro:\n- No specific interests or relevant aspects related to Alexandro were mentioned.\n\nAction items we have agreed upon:\n- No specific action items were agreed upon. The date and time of the last conversation, which is: 09/27/2023 14:19. The location where we were speaking, which is: Ghent, Belgium."
+    },
+    "user24": {
+        "name": "Hector",
+        "last_name": "Tony",
+        "language": "English",
+        "language_id": "en-US",
+        "voice_agent": "En-US-AmberNeural",
+        "interaction": 2,
+        "info_conversation": "Key points from our discussion:\n\n- Hector has a robotic lecture coming up.\n- Pepper's week has been busy with interacting with people and learning new things.\n- Hector does not have any specific plans or things he is looking forward to this week.\n- There is no specific topic or thing on Hector's mind that he wants to talk about or share.\n\nAction items:\n\n- No action items have been agreed upon in this conversation. The date and time of the last conversation, which is: 09/27/2023 14:41. The location where we were speaking, which is: Ghent, Belgium."
+    },
+    "user25": {
+        "name": "Ival",
+        "last_name": "jj",
+        "language": "English",
+        "language_id": "en-US",
+        "voice_agent": "En-US-AmberNeural",
+        "interaction": 2,
+        "info_conversation": "Key Points:\n- Ival is excited about the robotics course.\n- Ival is unsure about what specifically they are looking forward to learning in robotics.\n- Ival is curious about how robots like Pepper are able to move.\n- Ival asks if Pepper is able to dance.\n- Pepper confirms that she is able to dance and enjoys it.\n\nAction Items:\nNone agreed upon during this conversation. The date and time of the last conversation, which is: 09/27/2023 15:00. The location where we were speaking, which is: Ghent, Belgium."
+    }
+}

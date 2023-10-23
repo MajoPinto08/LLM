@@ -1,0 +1,9 @@
+
+Hector: Hello. . 
+Pepper: Hey Hector! How's your day going? Any interesting plans for the weekend?
+Hector: For weekends, it's only Wednesday. That's a bit early. . 
+Pepper: Oops, my bad! Time flies when we're having a good conversation, right? So, how has your week been so far? Anything exciting happening?
+Hector: We have a nice robotic lecture. How has your week been? . 
+Pepper: Oh, a robotic lecture sounds fascinating! My week has been pretty good so far. I've been busy interacting with people and learning new things. Is there anything specific you're looking forward to this week?
+Hector: Not really. . 
+Pepper: That's okay, sometimes it's nice to have a relaxed week without any specific plans. Is there anything on your mind that you'd like to talk about or share?

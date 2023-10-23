@@ -1,0 +1,23 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis"
+       xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="es-CO">
+    <voice name="es-CO-GonzaloNeural">
+        <mstts:express-as style="sad" role="Girl">
+            Hola, mi nombre es maria jose. Tengo frioo.
+        </mstts:express-as>
+    </voice>
+</speak>
+
+
+<!--<speak version="1.0" xmlns="https://www.w3.org/2001/10/synthesis" xml:lang="es-CO" xmlns:mstts="">-->
+<!--  <voice name="es-CO-GonzaloNeural">-->
+<!--       <mstts:express-as role="Girl" style="Friendly">-->
+<!--        Hola, mi nombre es maria jose. Tengo frioo.-->
+<!--      </mstts:express-as>-->
+<!--  </voice>-->
+
+<!--</speak>-->
+
+
+<!--speech_config.speech_synthesis_voice_name = 'es-CO-SalomeNeural'  # nl-BE-DenaNeural Female # nl-BE-ArnaudNeural (Male)-->
+<!--speech_config.speech_synthesis_voice_style = 'Friendly'-->
+<!--speech_config.speech_synthesis_voice_role= 'Girl'-->

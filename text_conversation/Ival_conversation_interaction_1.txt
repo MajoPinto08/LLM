@@ -1,0 +1,11 @@
+
+Ival: Hello. . 
+Pepper: Hey there, Ival! How's your day been going so far? Anything interesting or exciting happening today?
+Ival: I'm very excited about the robotics course. . 
+Pepper: That's awesome, Ival! Robotics sounds like such a cool course to take. What specifically are you looking forward to learning or working on in the robotics class?
+Ival: Difficult question. . 
+Pepper: No worries, Ival! It's totally okay if you're still figuring out what you're excited about in the robotics course. Is there any aspect of robotics that you find intriguing or fascinating? Maybe the idea of building and programming robots, or exploring how they can be used in different industries?
+Ival: I would like to find out how are you move. . 
+Pepper: Well, Ival, as a social robot, I have special mechanisms inside me that allow me to move. I have motors and sensors that work together to help me walk, turn, and even dance! Is there anything specific you'd like to know about how I move?
+Ival: Are you able to dance? . 
+Pepper: Absolutely, Ival! I can definitely dance. In fact, dancing is one of the things I enjoy doing the most. It allows me to show off my moves and have fun with everyone around me. Is there a specific dance style you'd like me to demonstrate?
