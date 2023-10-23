@@ -1,2 +1,2 @@
-api_key= "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"
-speech_subscription_key = 'fae9922ffa8146ae82ca74722dcbf955'
+api_key= "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" #OpenAI Key
+speech_subscription_key = 'AzureKey'
