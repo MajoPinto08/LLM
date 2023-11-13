@@ -8,9 +8,43 @@ from config import speech_subscription_key
 #from Voice_analysis import analysis
 import azure.cognitiveservices.speech as speechsdk
 
+region = "eastus"
+languages = ["en-US", "es-ES"]
 client = OpenAI(
   api_key=api_key,  # this is also the default, it can be omitted
 )
+
+
+# Configurar la configuración del servicio de reconocimiento de voz
+def speech_recognize_continuous_from_microphone():
+    # Configuración de la suscripción y la región
+    speech_config = speechsdk.SpeechConfig(subscription=speech_subscription_key, region=region)
+
+    # Habilitar la identificación automática del idioma
+    auto_detect_source_language_config = speechsdk.languageconfig.AutoDetectSourceLanguageConfig(languages=languages)
+
+    # Crear un reconocedor de voz con la configuración y el idioma automático
+    audio_config = speechsdk.audio.AudioConfig(use_default_microphone=True)
+    speech_recognizer = speechsdk.SpeechRecognizer(
+        speech_config=speech_config,
+        auto_detect_source_language_config=auto_detect_source_language_config,
+        audio_config=audio_config)
+
+    # Conectar eventos para recibir resultados de STT
+    speech_recognizer.recognized.connect(lambda evt: print(f"RECOGNIZED: {evt.result.text}"))
+
+    # Comenzar la transcripción continua
+    speech_recognizer.start_continuous_recognition()
+
+    # Mantener el programa en ejecución mientras se realiza la transcripción
+    try:
+        input("Presiona Enter para terminar...\n")
+    except KeyboardInterrupt:
+        pass
+
+    # Detener la transcripción
+    speech_recognizer.stop_continuous_recognition()
+
 
 def speech_recognize_continuous_async_from_microphone():
   """performs continuous speech recognition asynchronously with input from microphone"""
@@ -94,8 +128,9 @@ def audio(text):
 
 
 def main():
+  speech_recognize_continuous_from_microphone()
   #message, fml = speech_recognize_continuous_async_from_microphone()  # VAD - Speech recognition
-  LLM_module()
+  #LLM_module()
 
 if __name__ == "__main__":
   main()
